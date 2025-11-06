@@ -1,19 +1,20 @@
 ### Hi there, I'm Jeansy! 👋✨
 
-Saya seorang mahasiswi IT dan calon Back-End Developer dengan antusiasme tinggi untuk membangun solusi sisi server yang bersih dan efisien.
+I'm an IT student and aspiring Back-End Developer with a passion for building clean and efficient server-side solutions.
 
 ---
 
-### 💻 Teknologi yang Saya Kuasai
+### 💻 My Tech Stack & Tools
 
-* **Bahasa Pemrograman:** Python | PHP | JavaScript | SQL
-* **Saat Ini Belajar:** [Sebutkan 1-2 teknologi yang sedang Anda pelajari, misal: 'Laravel', 'Node.js', atau 'React']
-* **Minat Utama:** Back-End Development, Manajemen Database, Arsitektur Sistem.
+* **Languages:** Python | PHP | JavaScript | SQL
+* **Frameworks/Environments:** Laravel | Node.js
+* **Currently Learning:** Deepening my skills in **Laravel** and **Node.js**.
+* **Interests:** Back-End Development, Database Management, API Design.
 
 ---
 
-### 🌱 Aktivitas Saya Saat Ini
+### 🌱 What I'm Up To
 
-* 🎓 Sedang menempuh studi di bidang Teknologi Informasi.
-* 🔧 Sedang membangun beberapa proyek pribadi menggunakan [Sebutkan teknologi favorit Anda, misal: 'Python dan SQL'].
-* 💬 Jangan ragu bertanya tentang perjalanan saya di dunia *software development*!
+* 🎓 Studying Information Technology.
+* 🔧 Actively building a personal project using **Laravel**.
+* 💬 Feel free to ask me about my software development journey!
