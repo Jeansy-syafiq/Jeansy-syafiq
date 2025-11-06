@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Jeansy! 👋✨
 
-<!--
-**Jeansy-syafiq/Jeansy-syafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang mahasiswi IT dan calon Back-End Developer dengan antusiasme tinggi untuk membangun solusi sisi server yang bersih dan efisien.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Teknologi yang Saya Kuasai
+
+* **Bahasa Pemrograman:** Python | PHP | JavaScript | SQL
+* **Saat Ini Belajar:** [Sebutkan 1-2 teknologi yang sedang Anda pelajari, misal: 'Laravel', 'Node.js', atau 'React']
+* **Minat Utama:** Back-End Development, Manajemen Database, Arsitektur Sistem.
+
+---
+
+### 🌱 Aktivitas Saya Saat Ini
+
+* 🎓 Sedang menempuh studi di bidang Teknologi Informasi.
+* 🔧 Sedang membangun beberapa proyek pribadi menggunakan [Sebutkan teknologi favorit Anda, misal: 'Python dan SQL'].
+* 💬 Jangan ragu bertanya tentang perjalanan saya di dunia *software development*!
